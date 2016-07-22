@@ -100,6 +100,6 @@
 
     // Create
     angular
-        .module('components')
+        .module('floating-label')
         .directive('floatingLabel', floatingLabelDefinition);
 })(window.angular);
