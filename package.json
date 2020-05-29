@@ -29,7 +29,7 @@
     "gulp-jshint": "1.9.x",
     "gulp-less": "2.0.x",
     "jasmine-core": "2.1.x",
-    "jshint-stylish": "1.0.x",
+    "jshint-stylish": "2.2.x",
     "karma": "0.12.x",
     "karma-coverage": "0.2.x",
     "karma-jasmine": "0.3.x",
