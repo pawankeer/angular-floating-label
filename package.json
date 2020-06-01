@@ -27,7 +27,7 @@
     "gulp-autoprefixer": "2.0.x",
     "gulp-concat": "2.4.x",
     "gulp-jshint": "1.9.x",
-    "gulp-less": "2.0.x",
+    "gulp-less": "4.0.x",
     "jasmine-core": "2.1.x",
     "jshint-stylish": "1.0.x",
     "karma": "0.12.x",
